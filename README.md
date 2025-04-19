@@ -29,7 +29,7 @@ An AI-powered interactive bot that simulates a full IELTS Speaking test (Parts 1
 
 ## 🛠️ Setup
 Clone the repository:
-- git clone https://github.com/yourusername/ielts-speaking-bot.git
+- git clone https://github.com/mubaxhir/ielts-speaking-bot.git
 - cd ielts-speaking-bot
 
 Create a .env file and add your API keys:
